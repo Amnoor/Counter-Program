@@ -64,7 +64,7 @@ You only need a modern web browser (Chrome, Firefox, Edge, Safari) — no server
 
 There’s no build or bundler configuration required for this release. The code uses plain HTML + JavaScript. Future releases may introduce additional features or tooling.
 
-## **Contrbuting**
+## **Contributing**
 
 Thank you for your interest in contributing!
 
