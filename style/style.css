@@ -1,0 +1,33 @@
+.container{
+    height: 90vh;
+    text-align: center;
+}
+#num{
+    margin-top: 200px;
+    margin-bottom: 0px;
+    font-size: 300px;
+}
+button{
+    background-color: hsl(0, 100%, 50%);
+    font-size: x-large;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+button:hover{
+    cursor: pointer;
+    font-size: xx-large;
+}
+@media (max-width: 768px){
+    #num{
+        margin-top: 250px;
+        font-size: 200px;
+    }
+    button{
+        font-size: large;
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+    buttun:hover{
+        font-size: x-large;
+    }
+}
